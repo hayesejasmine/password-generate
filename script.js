@@ -58,14 +58,14 @@ if (SpecialCharactersInput === true) {
   combinedlist.push(specials);
 }
 
-var generatedPassword = ""
+var makePassword = ""
 
 for (var i = 0; i < length; i++) {
-  var randomlist = getRandomitem(combinedlist)
-  var randomchar = getRandomitem(randomlist)
-  generatedPassword += randomchar
+  var arandomslist = getRandomitem(combinedlist)
+  var randomcharacters = getRandomitem(arandomslist)
+  makePassword += randomcharacters
 }
-return generatedPassword
+return makePassword
 }
 
 // Write password to the #password input

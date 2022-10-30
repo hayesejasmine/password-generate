@@ -24,6 +24,6 @@ WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 
 ## Mock-Up
-![Mock-Up](/Users/jasminehayes/Assignments/password-generate/Assets/03-javascript-homework-demo.png)
+![Mock-Up](https://courses.bootcampspot.com/courses/2467/files/2187112/preview)
 
 
