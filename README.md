@@ -24,6 +24,6 @@ WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 
 ## Mock-Up
-![Mock-Up](https://courses.bootcampspot.com/courses/2467/files/2187112/preview)
+![Mock-Up](https://user-images.githubusercontent.com/114713151/198907154-a135c597-761b-4be7-b5fc-a0984b4de438.png)
 
 
